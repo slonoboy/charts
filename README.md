@@ -22,6 +22,11 @@ Locate your command line location to folder with manage.py file and type python 
 
 If you want to create superuser and have access to the database from admin panel, type python manage.py createsuperuser. Now go to http://127.0.0.1:8000/admin and use your newly created account log in
 ### Examples
+On the page below choose the chart you are interested in 
+![index_page](https://user-images.githubusercontent.com/52863393/153463069-0ea6c7b0-e3f5-45f3-ba12-a6712aa51761.png)
+![pie](https://user-images.githubusercontent.com/52863393/153463084-c693c0a9-23df-48cd-b48c-ce91117e32de.png)
+![line](https://user-images.githubusercontent.com/52863393/153463103-ae89c1f9-f972-464b-bf22-466ad41fa315.png)
+![bar](https://user-images.githubusercontent.com/52863393/153463110-515713a4-b12b-48e8-8bf3-0a40e08dec77.png)
 
 
 
